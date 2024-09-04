@@ -59,7 +59,6 @@ This React application includes:
 - Submitted Data: Navigate to /submitted to view the data that was submitted through the form.
 
 ## Code Structure
-    ````bash
     src/
         components/
             AMC.jsx
@@ -72,7 +71,7 @@ This React application includes:
             formSlice.js
         App.jsx
         index.js
-    ````
+        
 ## Main Components
 
 - **`App.jsx`**: Sets up routing and navigation for the application.
