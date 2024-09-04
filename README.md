@@ -4,14 +4,7 @@ This project is a React application that demonstrates form handling, validation,
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Installation](#installation)
 
 ## Project Overview
 
@@ -21,9 +14,6 @@ This React application includes:
 - Validation for form fields using Redux state.
 - Navigation between different routes using React Router.
 - A loading animation displayed during route transitions.
-
-## Getting Started
-
 
 ### Prerequisites
 
@@ -35,5 +25,26 @@ This React application includes:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-# Cresent-Rating-Test
+   git clone https://github.com/Keshinryan/Cresent-Rating-Test
+   ```
+   
+2. **Navigate to the Project Directory**
+
+ ```bash
+ cd Cresent-Rating-Test
+ ```
+
+
+3. **Install Dependencies**
+
+ ```bash
+ npm install
+```
+
+4. **Run the Project in Development Enviroment **
+
+ ```bash
+ npm run dev
+```
+
+
