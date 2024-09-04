@@ -70,7 +70,7 @@ This React application includes:
         features/
             formSlice.js
         App.jsx
-        index.js
+        main.js
         App.css
 
 ## Main Components
