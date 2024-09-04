@@ -30,21 +30,21 @@ This React application includes:
    
 2. **Navigate to the Project Directory**
 
- ```bash
- cd Cresent-Rating-Test
- ```
+    ```bash
+    cd Cresent-Rating-Test
+    ```
 
 
 3. **Install Dependencies**
 
- ```bash
- npm install
-```
+    ```bash
+    npm install
+    ```
 
 4. **Run the Project in Development Enviroment **
 
- ```bash
- npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 
