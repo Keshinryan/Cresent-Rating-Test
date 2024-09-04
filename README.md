@@ -71,7 +71,8 @@ This React application includes:
             formSlice.js
         App.jsx
         index.js
-        
+        App.css
+
 ## Main Components
 
 - **`App.jsx`**: Sets up routing and navigation for the application.
